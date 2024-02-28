@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Matthew 👋
+
+I am a Javascript/Typescript web developer that specializes in front-end. Throughout my career, I have utilized this language to build out interactive user experiences, as I have leveraged it with React, Redux, and Next.js. For back-end development, I have utilized it to build APIs using Node.js and Express.
 
 <a href="https://github.com/glowupmatt/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/glowupmatt/github-profile-trophy">
