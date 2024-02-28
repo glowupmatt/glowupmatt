@@ -7,7 +7,7 @@ I am a Javascript/Typescript web developer that specializes in front-end. Throug
   - Near crypto SDK
     
 <div align='left'>
-<p>- 📫 How to reach me:</p>
+<p>📫 How to reach me:</p>
 <li>
 <a href="https://www.linkedin.com/in/matthew-nicholson-bb91aa23a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  MatthewNicholson-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
@@ -31,17 +31,3 @@ I am a Javascript/Typescript web developer that specializes in front-end. Throug
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowupmatt&layout=compact" />
 </div>
 
-<!--
-**glowupmatt/glowupmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
