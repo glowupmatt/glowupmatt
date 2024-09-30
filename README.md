@@ -1,6 +1,6 @@
 ### Hi there I'm Matthew 👋
 
-I am a Javascript/Typescript web developer that specializes in front-end. Throughout my career, I have utilized this language to build out interactive user experiences, as I have leveraged it with React, Redux, and Next.js. For back-end development, I have utilized it to build APIs using Node.js and Express.
+I am a software engineer specializing in full-stack development. Throughout my career, I’ve built interactive user experiences with TypeScript, and JavaScript utilizing frameworks like React, Redux, and Next.js. On the back end, I’ve developed scalable and efficient systems using Node.js, Express, Django, and Java Spring Boot.
 
 - 🌱 I’m currently learning
   - DevOps Skills
