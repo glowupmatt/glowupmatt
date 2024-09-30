@@ -17,8 +17,7 @@ I am a software engineer specializing in full-stack development. Throughout my c
 	
 </ul>
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowupmatt&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowupmatt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
